@@ -23,7 +23,7 @@ Este repositório contém a análise de dados e modelagem preditiva relacionada 
     ```
 
 2. **Explorar o Notebook**
-   - Navegue até o arquivo `price.ipynb` Onde está a análise exploratória dos dados e o modelo
+   - Navegue até o arquivo `price.ipynb`. Onde está a análise exploratória dos dados e o modelo
 
 ### Dados
 
@@ -40,3 +40,5 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://docs.git
 ### Contato
 
 Se tiver alguma dúvida ou sugestão, sinta-se à vontade para abrir uma issue ou [envie-me uma mensagem no LinkedIn.](https://www.linkedin.com/in/-joaoinacio/)
+
+**Agradeço pela sua visita!** Se achou este projeto útil, por favor, dê uma ⭐!
